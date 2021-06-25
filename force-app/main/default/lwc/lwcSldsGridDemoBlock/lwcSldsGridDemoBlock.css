@@ -3,6 +3,10 @@
     align-items:center;
     justify-content: center;
     color:whitesmoke;
+    background-color: rgb(88, 119, 187);
     width:100%;
     height:60px;
+    border-color: white;
+    border:solid;
+    font-size: 2em;
 }
