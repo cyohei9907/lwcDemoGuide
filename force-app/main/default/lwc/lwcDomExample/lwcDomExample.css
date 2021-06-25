@@ -1,0 +1,17 @@
+:root{
+    --font-color:white;
+    --container-height:500px;
+    --container-width:300px;
+}
+.recive-container{
+    background-color:rgb(72, 117, 156);
+    color: var(--font-color);
+    width:var(--container-width);
+    height:var(--container-height);
+}
+.target-container{
+    background-color:rgb(182, 190, 57);
+    color: var(--font-color);
+    width:var(--container-width);
+    height:var(--container-height);
+}
